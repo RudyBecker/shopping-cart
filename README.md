@@ -1,4 +1,5 @@
 # shopping-cart
+Key features of this shopping cart created with Vue includes: adding/removing items from cart and view total price of selected goods in cart. 
 
 ## Project setup
 ```

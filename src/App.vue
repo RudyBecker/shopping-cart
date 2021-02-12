@@ -51,7 +51,6 @@
     <div class="text-center mt-5">
       <h5>
         This demo website was coded by Rudy Becker.
-        2020
       </h5>
     </div>
 

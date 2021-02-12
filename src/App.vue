@@ -50,7 +50,7 @@
 
     <div class="text-center mt-5">
       <h5>
-        This DEMO website was coded by Rudy Becker for Microsoft LEAP November
+        This demo website was coded by Rudy Becker.
         2020
       </h5>
     </div>
